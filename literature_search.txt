@@ -1,5 +1,25 @@
-References for Essay literature search.
+﻿References for Essay literature search.
 
 T.H.Cormen,C.E.Leiserson,R.L.Rivest,C.Stein,IntroductiontoAlgorithms,2ndedition,MITPress,2001.
 
 T. N. Bui, X. Deng, and C. M. Zrncic, “An improved ant-based algorithm for the degree-constrained minimum spanning tree problem,” IEEE Transactions on Evolutionary Computation, vol. 16, no. 2, pp. 266–278, 2012. View at Publisher · View at Google Scholar · View at Scopus
+
+
+Dynamic Degree Constrained Network Design:
+A Genetic Algorithm Approach
+Chao-Hsien Chu
+300 Carver Hall
+Iowa State Univ.
+Ames, Iowa 50011
+G. Premkumar
+300 Carver Hall
+Iowa State Univ.
+Ames, Iowa 50011
+Carey Chou
+Sprint Corp.
+7628 W. 95th St., #8
+Overland Park, KS 66212
+Jianzhong Sun
+Division of Mining
+Handan, Hebei 056031
+P. R. of China
